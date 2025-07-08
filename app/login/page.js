@@ -8,7 +8,7 @@ export default function Home() {
         <PhotoCard title="Car 2" image="/car_2.jpg" />
       </div>
       <a type="button" href="/">
-        Click here to /
+        Click here to abc/
       </a>
     </>
   );
